@@ -88,6 +88,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 - [EM vs REM vs PX – Why you shouldn't “just use pixels”](https://engageinteractive.co.uk/blog/em-vs-rem-vs-px) - This helped me to better understand how to use the different CSS units.
 - [PX, EM or REM Media Queries?](https://zellwk.com/blog/media-query-units/) - This article explains why ems should be used for media queries.
 
+- [Kevin Powell - Controlling background-images | CSS Tutorial](https://www.youtube.com/watch?v=3T_Jy1CqH9k&t=766s) - This helped me to understand working with multiple background images, especially with their positioning.
+
 ## Author
 
 - Frontend Mentor - [@Zomino](https://www.frontendmentor.io/profile/Zomino)
